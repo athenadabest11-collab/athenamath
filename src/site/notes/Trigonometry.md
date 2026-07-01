@@ -3,7 +3,7 @@
 ---
 
 
-Trigonometry can feel like a maze of Greek letters and ratios, but at its heart, it is just a tool for decoding the relationships between the angles and sides of a triangle. Whether you are prepping for advanced math competitions or just strengthening your geometry toolkit, mastering these concepts will help you break down complex geometric problems with ease.
+Trigonometry can feel like a maze of Greek letters and ratios, but at its heart, it is just a tool for decoding the relationships between the angles and sides of a triangle. Whether you are prepping for advanced math competitions or just strengthening your geometry toolkit, mastering these concepts will definitely help you break down complex geometric problems with ease.
 
 Let's dive into the core fundamentals of right-triangle trigonometry and see how we can expand those rules to conquer any triangle using the Law of Cosines.
 
